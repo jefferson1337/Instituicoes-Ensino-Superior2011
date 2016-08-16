@@ -7,7 +7,9 @@
 - **Identificação dos membros da equipe de desenvolvimento do projeto:**
   - Jefferson Lourenço Pires, RA: 170324, E-MAIL: jeffersonp_p@hotmail.com
   
-- **Motivação:** Esse projeto vai ajudar a entender como as instituições de ensino superior estão distribuidas geograficamente. Também vai ser possivel descobrir o nº de instituições públicas x privadas, além de outras informações importantes.
+- **Motivação:**
+  - Projeto para a disciplina Programação Orientada a Objetos 2 da Faculdade de Tecnologia da UNICAMP.
+  - Esse projeto vai ajudar a entender como as instituições de ensino superior estão distribuidas geograficamente. Também vai ser possivel descobrir o nº de instituições públicas x privadas, além de outras informações importantes.
 
 - **Fonte de dados:** 
   - **Fonte:** dados.gov.br 
